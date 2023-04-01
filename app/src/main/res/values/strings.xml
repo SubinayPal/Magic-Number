@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Magic Number</string>
+    <string name="hint_id">Enter The Id Here...</string>
+    <string name="submit">Submit</string>
+    <string name="dob">\"Date of Birth : \"</string>
+    <string name="gender">\"Gender : \"</string>
+    <string name="nationality">\"Nationality : \"</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="indian">Indian</string>
+    <string name="others">Others</string>
+</resources>
